@@ -12,7 +12,6 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Search Enhancement](#search-enhancement)
 - [Coding and Development](#coding-and-development)
 - [Productivity and Meetings](#productivity-and-meetings)
-- [SEO and Marketing](#seo-and-marketing)
 - [Translation](#translation)
 - [Email and Communication](#email-and-communication)
 - [Reading and Accessibility](#reading-and-accessibility)
@@ -58,28 +57,15 @@ Browser extensions that use artificial intelligence to help you write, research,
 ## Coding and Development
 
 - [Blackbox AI](https://chromewebstore.google.com/detail/blackboxai/mcgbeeipkmelnpldkobichboakdfaeon) - AI coding assistant with code chat, GitHub integration, and OCR to extract code from images and video tutorials.
-- [Codeium](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
-- [GitHub Copilot](https://chromewebstore.google.com/detail/github-copilot/gilgpfegfekhciolbbkfknbmhfnhcedk) - AI pair programmer that suggests code completions, generates functions, and answers questions in browser-based editors.
 - [Scribe](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii) - AI documentation tool that automatically generates step-by-step guides with screenshots as you walk through any process.
-- [Tabnine](https://chromewebstore.google.com/detail/tabnine-ai-code-assistant/diihmhkmpliicmgkhaoigojnpkijldde) - AI code completion assistant that predicts and suggests whole lines and full functions in browser-based code editors.
+- [Windsurf](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
 
 ## Productivity and Meetings
 
-- [Awesome Screenshot](https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj) - Screen recorder and screenshot tool with annotation, blur, and sharing to Jira, Slack, Trello, and GitHub.
 - [Fireflies.ai](https://chromewebstore.google.com/detail/fireflies-ai-meeting-note/meimoidfecamngeoanhnpdjjdcefoldn) - AI meeting recorder that captures audio, generates transcripts, and provides real-time notes and AI suggestions.
 - [Loom](https://chromewebstore.google.com/detail/loom-screen-recorder-scre/liecbddmkiiihnedobmlmillhodjkdmb) - AI-powered screen recorder that generates instant transcripts, summaries, and chapters for async video communication.
-- [Notion Web Clipper](https://chromewebstore.google.com/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk) - Save any webpage to your Notion workspace with one click, organizing research into projects and reading lists.
 - [Otter.ai](https://chromewebstore.google.com/detail/otterai-record-transcribe/bnmojkbbkkonlmlfgejehefjldooiedp) - Real-time meeting transcription and AI-powered summaries for Zoom, Google Meet, and Teams directly in Chrome.
 - [Tactiq](https://chromewebstore.google.com/detail/tactiq-ai-note-taker-for/fggkaccpbmombhnjkjokndojfgagejfb) - AI meeting note-taker that captures live transcripts and action items from Google Meet, Zoom, and Teams.
-- [Workona](https://chromewebstore.google.com/detail/tab-manager-by-workona/ailcmbgekjpnablpdkmaaccecekgdhlh) - Tab manager that organizes browser tabs into project workspaces with cloud sync and tab suspension.
-
-## SEO and Marketing
-
-- [Ahrefs SEO Toolbar](https://chromewebstore.google.com/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) - SEO toolbar for on-page analysis, link checking, redirect tracing, and keyword research in search results.
-- [Keyword Surfer](https://chromewebstore.google.com/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca) - Free SEO extension that displays search volumes, CPC, and keyword suggestions directly in Google results.
-- [Keywords Everywhere](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) - Keyword research tool showing search volume, CPC, and competition data on 15+ websites.
-- [MozBar](https://chromewebstore.google.com/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp) - All-in-one SEO toolbar showing Domain Authority, Page Authority, and link metrics on any page or SERP.
-- [SEOquake](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Free SEO audit toolbar by Semrush that provides instant on-page SEO metrics and SERP analysis.
 
 ## Translation
 
