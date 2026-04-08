@@ -16,16 +16,13 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Translation](#translation)
 - [Email and Communication](#email-and-communication)
 - [Reading and Accessibility](#reading-and-accessibility)
-- [Privacy and Security](#privacy-and-security)
 
 ## Browser Agents and Automation
 
 - [Bardeen](https://chromewebstore.google.com/detail/bardeen-automate-browser/ihhkmalpkhkoedlmcnilbbhhbhnicjga) - Automate browser workflows by connecting 200+ web apps for scraping, data transfer, and outreach.
 - [dassi](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi) - AI browser agent that reads pages, fills forms, navigates sites, and completes multi-step workflows using Claude, GPT, or Gemini.
-- [Do Browser](https://chromewebstore.google.com/detail/do-browser-ai-browser-age/hjcibkpfgnljonndnnanhkholafmgmip) - AI browser agent that automates tasks like web scraping, form filling, and multi-tab navigation using natural language commands.
 - [HARPA AI](https://chromewebstore.google.com/detail/harpa-ai-web-automation-w/eanggfilgoajaocelnaflolkadkeghjp) - All-in-one AI extension combining ChatGPT, Claude, Gemini, and Perplexity to automate web searching, writing, coding, and summarizing.
 - [Magical](https://chromewebstore.google.com/detail/magical-ai-agent-for-auto/iibninhmiggehlcdolcilmhacighjamp) - AI text expander and autofill agent that automates repetitive typing, form filling, and data entry across any web app.
-- [MultiOn](https://chromewebstore.google.com/detail/multion/ddmjhdbknfidiopmbaceghhhbgbpenmm) - Autonomous AI web agent that takes actions on your behalf including ordering food, posting to social media, and filling forms.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation using your own LLM API keys with a multi-agent system.
 
 ## Writing and Editing
@@ -61,14 +58,16 @@ Browser extensions that use artificial intelligence to help you write, research,
 ## Coding and Development
 
 - [Blackbox AI](https://chromewebstore.google.com/detail/blackboxai/mcgbeeipkmelnpldkobichboakdfaeon) - AI coding assistant with code chat, GitHub integration, and OCR to extract code from images and video tutorials.
+- [Codeium](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
+- [GitHub Copilot](https://chromewebstore.google.com/detail/github-copilot/gilgpfegfekhciolbbkfknbmhfnhcedk) - AI pair programmer that suggests code completions, generates functions, and answers questions in browser-based editors.
 - [Scribe](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii) - AI documentation tool that automatically generates step-by-step guides with screenshots as you walk through any process.
-- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Technology profiler that detects CMS, frameworks, analytics, and 1,000+ technologies used on any website.
-- [Windsurf](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
+- [Tabnine](https://chromewebstore.google.com/detail/tabnine-ai-code-assistant/diihmhkmpliicmgkhaoigojnpkijldde) - AI code completion assistant that predicts and suggests whole lines and full functions in browser-based code editors.
 
 ## Productivity and Meetings
 
 - [Awesome Screenshot](https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj) - Screen recorder and screenshot tool with annotation, blur, and sharing to Jira, Slack, Trello, and GitHub.
 - [Fireflies.ai](https://chromewebstore.google.com/detail/fireflies-ai-meeting-note/meimoidfecamngeoanhnpdjjdcefoldn) - AI meeting recorder that captures audio, generates transcripts, and provides real-time notes and AI suggestions.
+- [Loom](https://chromewebstore.google.com/detail/loom-screen-recorder-scre/liecbddmkiiihnedobmlmillhodjkdmb) - AI-powered screen recorder that generates instant transcripts, summaries, and chapters for async video communication.
 - [Notion Web Clipper](https://chromewebstore.google.com/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk) - Save any webpage to your Notion workspace with one click, organizing research into projects and reading lists.
 - [Otter.ai](https://chromewebstore.google.com/detail/otterai-record-transcribe/bnmojkbbkkonlmlfgejehefjldooiedp) - Real-time meeting transcription and AI-powered summaries for Zoom, Google Meet, and Teams directly in Chrome.
 - [Tactiq](https://chromewebstore.google.com/detail/tactiq-ai-note-taker-for/fggkaccpbmombhnjkjokndojfgagejfb) - AI meeting note-taker that captures live transcripts and action items from Google Meet, Zoom, and Teams.
@@ -99,12 +98,6 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [NaturalReader](https://chromewebstore.google.com/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk) - AI text-to-speech extension with 150+ voices across 20+ languages and an immersive reading mode.
 - [Read Aloud](https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Text-to-speech voice reader supporting 40+ languages with voices from Google, Amazon, Microsoft, and OpenAI.
 - [Speechify](https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm) - AI text-to-speech reader with 1,000+ lifelike voices in 60+ languages at up to 4.5x speed.
-
-## Privacy and Security
-
-- [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij) - Open-source tracker and ad blocker that uses AI heuristics to block trackers, anonymize data, and speed up browsing.
-- [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - EFF-made extension that automatically learns to block invisible trackers based on their behavior.
-- [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - Efficient Manifest V3 content blocker that blocks ads, trackers, and miners immediately upon installation.
 
 ## Contributing
 
