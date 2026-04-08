@@ -19,6 +19,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 ## Browser Agents and Automation
 
 - [Bardeen](https://chromewebstore.google.com/detail/bardeen-automate-browser/ihhkmalpkhkoedlmcnilbbhhbhnicjga) - Automate browser workflows by connecting 200+ web apps for scraping, data transfer, and outreach.
+- [Claude](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) - Anthropic's AI assistant as a browser agent that navigates websites, fills forms, extracts data, and runs multi-step workflows.
 - [dassi](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi) - AI browser agent that reads pages, fills forms, navigates sites, and completes multi-step workflows using Claude, GPT, or Gemini.
 - [HARPA AI](https://chromewebstore.google.com/detail/harpa-ai-web-automation-w/eanggfilgoajaocelnaflolkadkeghjp) - All-in-one AI extension combining ChatGPT, Claude, Gemini, and Perplexity to automate web searching, writing, coding, and summarizing.
 - [Magical](https://chromewebstore.google.com/detail/magical-ai-agent-for-auto/iibninhmiggehlcdolcilmhacighjamp) - AI text expander and autofill agent that automates repetitive typing, form filling, and data entry across any web app.
