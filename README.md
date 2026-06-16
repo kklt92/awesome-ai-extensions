@@ -19,6 +19,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 
 ## Browser Agents
 
+- [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - open-source Chromium extension that sits between an AI browser agent and web pages, masking PII, blocking prompt injection in hidden text, and stripping dark patterns and noise.
 - [Claude](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) - Anthropic's AI assistant as a browser agent that navigates websites, fills forms, extracts data, and runs multi-step workflows.
 - [dassi](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi) - AI browser agent that reads pages, fills forms, navigates sites, and completes multi-step workflows using Claude, GPT, or Gemini.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation using your own LLM API keys with a multi-agent system.
