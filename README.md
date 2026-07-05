@@ -41,6 +41,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Wordtune](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc) - AI-powered paraphrasing and rewriting tool that suggests alternative ways to express your sentences.
 - [Writesonic](https://chromewebstore.google.com/detail/writesonic-ai-writing-seo/kchaponcodemjigejilffhfchecpgdpf) - AI writing and SEO extension that generates content, email replies, and social posts with real-time keyword data.
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ## Research and Summarization
 
 - [Elmo](https://chromewebstore.google.com/detail/elmo-chat-your-ai-web-cop/ipnlcfhfdicbfbchfoihipknbaeenenm) - AI web copilot that creates instant summaries and insights from web pages, PDFs, YouTube videos, and Google Docs.
