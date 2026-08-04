@@ -63,6 +63,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 
 - [Blackbox AI](https://chromewebstore.google.com/detail/blackboxai/mcgbeeipkmelnpldkobichboakdfaeon) - AI coding assistant with code chat, GitHub integration, and OCR to extract code from images and video tutorials.
 - [Scribe](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii) - AI documentation tool that automatically generates step-by-step guides with screenshots as you walk through any process.
+- [Skim](https://github.com/skim-md/skim) - Renders markdown files, including AI coding agent output, directly in the browser with live reload, math, and diagram support.
 - [Windsurf](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
 
 ## Productivity and Meetings
