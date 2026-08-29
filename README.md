@@ -71,6 +71,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Loom](https://chromewebstore.google.com/detail/loom-screen-recorder-scre/liecbddmkiiihnedobmlmillhodjkdmb) - AI-powered screen recorder that generates instant transcripts, summaries, and chapters for async video communication.
 - [Otter.ai](https://chromewebstore.google.com/detail/otterai-record-transcribe/bnmojkbbkkonlmlfgejehefjldooiedp) - Real-time meeting transcription and AI-powered summaries for Zoom, Google Meet, and Teams directly in Chrome.
 - [Tactiq](https://chromewebstore.google.com/detail/tactiq-ai-note-taker-for/fggkaccpbmombhnjkjokndojfgagejfb) - AI meeting note-taker that captures live transcripts and action items from Google Meet, Zoom, and Teams.
+- [Trippi](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk) - live translated subtitles for Google Meet, Zoom, and Teams that run its own speech recognition instead of re-translating platform captions, in 45 languages.
 
 ## Translation
 
