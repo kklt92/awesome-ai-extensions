@@ -50,6 +50,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Merlin](https://chromewebstore.google.com/detail/merlin-ask-ai-to-research/camppjleccjaphfdbohjdohecfnoikec) - All-in-one AI extension for researching, summarizing, translating, and rewriting content on any website.
 - [Monica](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb) - All-in-one AI assistant integrating GPT, Claude, and Gemini for chat, summarization, translation, writing, and AI search.
 - [Sider](https://chromewebstore.google.com/detail/sider-chat-with-all-ai-gp/difoiogjjojoaoomphldepapgpbgkhkb) - All-in-one AI sidebar with ChatGPT, Claude, Gemini, and DeepSeek for summarizing, searching, reading, and writing on any webpage.
+-  [SummarizAI](https://summarizai.ink) - chrome extension that adds AI summaries, chapters, chat, and Study flashcards on the YouTube watch page.
 - [TLDR This](https://chromewebstore.google.com/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj) - Automatic text summarizer that condenses long articles into key bullet points using NLP.
 
 ## Search Enhancement
