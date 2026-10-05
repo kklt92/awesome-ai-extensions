@@ -66,6 +66,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Windsurf](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
 
 ## Productivity and Meetings
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [Fireflies.ai](https://chromewebstore.google.com/detail/fireflies-ai-meeting-note/meimoidfecamngeoanhnpdjjdcefoldn) - AI meeting recorder that captures audio, generates transcripts, and provides real-time notes and AI suggestions.
 - [Loom](https://chromewebstore.google.com/detail/loom-screen-recorder-scre/liecbddmkiiihnedobmlmillhodjkdmb) - AI-powered screen recorder that generates instant transcripts, summaries, and chapters for async video communication.
