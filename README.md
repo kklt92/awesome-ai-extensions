@@ -43,6 +43,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 
 ## Research and Summarization
 
+- [Amanda](https://chromewebstore.google.com/detail/amanda-%E2%80%94-ai-study-assista/fahihghiaedfmlkkifdcfoocnghebddf) - AI reading assistant that explains, summarizes, or translates selected text on any page or PDF, with screenshot-to-AI for charts and diagrams.
 - [Elmo](https://chromewebstore.google.com/detail/elmo-chat-your-ai-web-cop/ipnlcfhfdicbfbchfoihipknbaeenenm) - AI web copilot that creates instant summaries and insights from web pages, PDFs, YouTube videos, and Google Docs.
 - [Glasp](https://chromewebstore.google.com/detail/glasp-web-highlighter-pdf/blillmbchncajnhkjfdnincfndboieik) - Social web and PDF highlighter with AI-powered summaries that lets you collect, organize, and share insights.
 - [Liner](https://getliner.com) - AI copilot for web browsing that enables highlighting, summarization, and Q&A across web pages, YouTube, and PDFs.
