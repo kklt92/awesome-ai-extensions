@@ -32,6 +32,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 ## Writing and Editing
 
 - [Compose AI](https://chromewebstore.google.com/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) - AI writing tool that autocompletes sentences, generates text, and drafts email replies with context awareness.
+- [DevPause](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao?utm_source=github_awesome_ai_extensions&utm_medium=referral&utm_campaign=launch) - adds buttons under ChatGPT, Claude, and Gemini answers to copy clean text, rewrite it shorter or simpler, convert it to a table, or continue the generation.
 - [Ginger](https://chromewebstore.google.com/detail/ai-grammar-and-spell-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh) - AI grammar and spell checker with contextual correction, sentence rephrasing, and translation in 40+ languages.
 - [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-assi/kbfnbcaeplbcioakkpcpgfkobkghlhen) - AI writing assistant providing real-time grammar, spelling, tone, and clarity suggestions across 500,000+ websites.
 - [Jasper](https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - AI content creation assistant with 60+ templates for marketing copy, emails, and social posts across Gmail, Docs, and more.
