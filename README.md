@@ -54,6 +54,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 
 ## Search Enhancement
 
+- [Archer](https://github.com/thellis954/archer-tabs) - Open source new tab page where one box opens a URL or sends your question to Google, ChatGPT, Claude or Perplexity.
 - [Kagi Search](https://chromewebstore.google.com/detail/kagi-search/cdglnehniifkbagbbombnjghhcihifij) - Ad-free, privacy-focused AI search engine extension with high citation accuracy.
 - [Kagi Summarizer](https://chromewebstore.google.com/detail/kagi-summarizer/dpaefegpjhgeplnkomgbcmmlffkijbgp) - Summarizes any webpage or article using Kagi's AI, accessible directly from the browser toolbar.
 - [Perplexity](https://chromewebstore.google.com/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) - AI companion that provides source-cited answers alongside your browsing, with summarization and follow-up queries.
