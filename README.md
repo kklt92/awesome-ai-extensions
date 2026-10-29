@@ -77,6 +77,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [DeepL](https://chromewebstore.google.com/detail/deepl-translate-and-write/cofdbpoegempjloogbagkncekinflcnj) - AI-powered translation and writing assistant supporting 30+ languages with industry-leading accuracy.
 - [Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - Instantly translate selected text or entire pages as you browse the web in 100+ languages.
 - [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - Bilingual translator for websites, PDFs, YouTube subtitles, ebooks, and manga using 20+ AI translation engines.
+- [Transello](https://chromewebstore.google.com/detail/transello/pddhdkkkpeefggfeofeeekodjlnfdlgl) - translator for text, selections and whole pages that runs on Chrome's built-in on-device model or with your own OpenAI, Claude or DeepSeek key.
 
 ## Email and Communication
 
