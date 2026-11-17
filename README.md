@@ -22,6 +22,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 - [Claude](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) - Anthropic's AI assistant as a browser agent that navigates websites, fills forms, extracts data, and runs multi-step workflows.
 - [dassi](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi) - AI browser agent that reads pages, fills forms, navigates sites, and completes multi-step workflows using Claude, GPT, or Gemini.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation using your own LLM API keys with a multi-agent system.
+- [Pexi](https://chromewebstore.google.com/detail/hmilmocmhfcnkaodecjpknjgfeegepoo) - uses the user's AI provider to research and complete tasks across shared Chrome tabs.
 
 ## Automation and Workflow
 
