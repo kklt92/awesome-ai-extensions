@@ -26,6 +26,7 @@ Browser extensions that use artificial intelligence to help you write, research,
 ## Automation and Workflow
 
 - [Bardeen](https://chromewebstore.google.com/detail/bardeen-automate-browser/ihhkmalpkhkoedlmcnilbbhhbhnicjga) - Rule-based browser automation that connects 200+ web apps using pre-built templates for scraping, data transfer, and outreach.
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Chrome extension that continues ChatGPT responses after a configurable delay, with per-tab controls and context handoff.
 - [HARPA AI](https://chromewebstore.google.com/detail/harpa-ai-web-automation-w/eanggfilgoajaocelnaflolkadkeghjp) - AI-assisted automation that runs pre-defined commands for web monitoring, page summarization, and content extraction using ChatGPT, Claude, and Gemini.
 - [Magical](https://chromewebstore.google.com/detail/magical-ai-agent-for-auto/iibninhmiggehlcdolcilmhacighjamp) - Rule-based text expander and autofill tool that automates repetitive typing, form filling, and data entry across web apps using templates.
 
